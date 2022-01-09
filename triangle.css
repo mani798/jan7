@@ -1,0 +1,41 @@
+body{
+    margin-left: 40%;
+    margin-top:50px;
+    background-color: rgb(245, 179, 229);
+}
+
+.triangle1{
+  margin: 0px;
+  width: 0px;
+  height: 0px;
+  margin-top: 0px;
+  border-left: 100px solid transparent;
+  border-right: 100px solid transparent;
+  position: relative;
+  border-bottom: 100px solid rgb(205, 125, 50);
+  top: 250px;
+}
+
+.triangle2{
+  margin: 0px;
+  width: 0px;
+  height: 0px;
+  margin-top: 0px;
+  border-left: 100px solid transparent;
+  border-right: 100px solid transparent;
+  position: relative;
+  border-bottom: 100px solid rgb(8, 243, 0);
+  top: 20px;
+}
+
+.triangle3{
+  margin: 0px;
+  width: 0px;
+  height: 0px;
+  margin-top: 0px;
+  border-left: 100px solid transparent;
+  border-right: 100px solid transparent;
+  position: relative;
+  border-bottom: 100px solid rgb(116, 4, 28);
+  top: -20px;
+}
